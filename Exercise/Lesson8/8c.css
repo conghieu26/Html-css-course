@@ -1,0 +1,18 @@
+.google-picture {
+  width: 280px;
+  display: block;
+  margin-left: 65px;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 16px;
+  border: none;
+  box-shadow: 0px 1px 5px rgb(0, 0, 0, 0.15);
+  border-radius: 20px;
+  width: 400px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}

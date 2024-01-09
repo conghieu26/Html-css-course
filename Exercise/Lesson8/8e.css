@@ -1,0 +1,35 @@
+body {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.title {
+  font-size: xx-large;
+}
+input {
+  display: block;
+  background-color: rgb(240, 240, 240);
+  border: none;
+  width: 300px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.request-button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.schedule-button {
+  background-color: rgb(240, 240, 240);
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 16px;
+}
