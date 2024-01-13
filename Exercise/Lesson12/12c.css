@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+  flex-direction:row; 
+  justify-content: space-between;
+}
+
+.item1 {
+  background-color: lightpink;
+  width: 50x;
+}
+
+.item2 {
+  background-color: lightpink;
+  width: 50x;
+}
+
+.item3 {
+  background-color: lightpink;
+  width: 50x;
+}
+
+.item4 {
+  background-color: lightpink;
+  width: 50x;
+}
