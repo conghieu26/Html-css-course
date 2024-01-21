@@ -5,8 +5,8 @@
   </head>
   <body style="
     height: 3000px;
-    padding-top: 60px;
-    padding-left: 60px;
+    padding-top: 80px;
+    padding-left: 80px;
   ">
     <div style="
         background-color: black;
@@ -18,15 +18,34 @@
         height: 50px;
       ">header</div>
     <div style="
-      background-color: black;
+      background-color: green;
       color: white;
       position: fixed;
       left: 0;
       top: 50px;
       bottom: 0;
-      width: 60px;
+      width: 72px;
     ">
       sidebar
+      <div style="
+      position: absolute;
+      background-color: red;
+      color: white;
+      top: 0;  
+      right: 0;
+    ">
+      X
+    </div>
+    </div>
+
+    <div style="
+      position: absolute;
+      background-color: red;
+      color: white;
+      top: 60px;
+      right: 10px;
+    ">
+      absolute
     </div>
     <div style="
       background-color: lightblue;
@@ -35,13 +54,24 @@
       position: static;
       ">
       div1
+      
     </div>
     <div style="
       background-color: lightpink;
       width: 200px;
       height: 200px;
+      position: relative;
       ">
       div2
+        <div style="
+        position: absolute;
+        background-color: black;
+        color: white;
+        bottom: 10px;
+        right: 10px;
+      ">
+        5:00
+      </div>
     </div>
   </body>
 </html>
